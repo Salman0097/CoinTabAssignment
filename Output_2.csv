@@ -1,0 +1,4 @@
+Observation,Count,Amount(Rs.)
+Total orders where X has been correctly charged,40,1704.4
+Total Orders where X has been overcharged,345,29896.699999999997
+Total Orders where X has been undercharged,8,577.1
